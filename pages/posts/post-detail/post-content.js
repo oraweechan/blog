@@ -9,7 +9,7 @@ const DUMMY_POST = {
     image: "getting-started-nextjs.png",
     excerpt: "NextJS is the React framework for production",
     date: "2022-01-25",
-    content: '# This is a first post'
+    content: '# This is a first post',
   }
 
 function PostContent() {
